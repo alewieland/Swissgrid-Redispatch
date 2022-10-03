@@ -2,13 +2,7 @@
 Analysis of redispatch measures for the swiss power grid.
 
 ## About
-
-
-
-
-## Table of contents
-
-
+The data set are the redispatch measurements taken from swissgrid to keep the power grid stable
 
 ## Requirements
 
@@ -26,14 +20,13 @@ The notebook redispatch_switzerland.ipynb contains all the analysis and commenta
 The notebook scrape.ipynb contains the code to download all the .csv files and merge them together to get the dataset. The data is available in the swissgrid.ch homepage, free to download.
 
 
-
 ## Results
 
-All the non-technical results can be found here.
+All the non-technical results can be found [here](https://medium.com/@alexander.wieland.aw/why-switzerland-is-essential-for-the-european-power-system-51a4a5adeea8).
 The technical details are described in the .ipynb
 
 
 
 ## Licensing, Authors, Acknowledgements
-At this point giving credit so swissgrid for the excellent work and kindniss of making this data available. No commercial intentions are followed by creating this dataset, 
+At this point giving credit so [swissgrid](https://www.swissgrid.ch/de/home/customers/topics/redispatch.html) for the excellent work and kindniss of making this data available. No commercial intentions are followed by creating this dataset, 
 
